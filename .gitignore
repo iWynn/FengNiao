@@ -99,3 +99,11 @@ fastlane/screenshots
 fastlane/test_output
 
 # End of https://www.gitignore.io/api/swift,macos
+
+Packages/CommandLine-3.0.0-pre1/
+
+Packages/PathKit-0.8.0/
+
+Packages/Rainbow-2.0.1/
+
+Packages/Spectre-0.7.2/
